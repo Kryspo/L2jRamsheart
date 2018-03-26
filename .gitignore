@@ -1,0 +1,8 @@
+/bin/
+/build/
+/.gradle/
+.DS_Store
+*.log
+.project
+.classpath
+/test-output/
